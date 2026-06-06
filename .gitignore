@@ -35,8 +35,7 @@ wheels/
 .DS_Store
 
 # Streamlit
-.streamlit/
-*.streamlit.app
+.streamlit/secrets.toml
 .streamlit_cache/
 
 # Project specific
